@@ -1,4 +1,4 @@
-// Developed by sty-nathan ()
+// Developed by sty-nathan (https://github.com/sty-nathan)
 
 #include <stdio.h>
 #include <string.h>
