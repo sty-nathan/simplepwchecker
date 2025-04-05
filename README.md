@@ -8,11 +8,9 @@ Requirements for this software:
 - GCC
 - UNIX-based system
 
-## Installation
+## Installation From source
 
 Follow these step-by-step instructions to download and build the tool:
-
-### Option 2: From source
 
 `Simple CLI Password Checker` is available for Linux systems.
 
