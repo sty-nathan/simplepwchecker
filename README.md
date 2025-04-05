@@ -8,7 +8,7 @@ Requirements for this software:
 - GCC
 - UNIX-based system
 
-## Installation From source
+## Installation from source
 
 Follow these step-by-step instructions to download and build the tool:
 
